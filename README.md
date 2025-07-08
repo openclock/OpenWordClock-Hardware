@@ -1,9 +1,9 @@
-# 🕒 openWordClock
+# 🕒 OpenWordClock
 
 ![_MG_9177](https://github.com/user-attachments/assets/e7871d2f-3859-4166-a9fd-e5e6ca1f1c1d)
 
 
-**openWordClock** is a sleek, modern, and fully open-source word clock that tells time using illuminated words. Designed with minimalism in mind, it features a floating, frameless acrylic face and is powered by an ESP8266 board. With vibrant WS2812 LEDs and laser-cut parts, this clock is a stylish and functional DIY project.
+**OpenWordClock** is a sleek, modern, and fully open-source word clock that tells time using illuminated words. Designed with minimalism in mind, it features a floating, frameless acrylic face and is powered by an ESP8266 board. With vibrant WS2812 LEDs and laser-cut parts, this clock is a stylish and functional DIY project.
 
 ---
 

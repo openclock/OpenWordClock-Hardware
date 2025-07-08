@@ -1,7 +1,9 @@
-# 🕒 OpenWordClock
+# 🕒 Open Word Clock
 
-![_MG_9177](https://github.com/user-attachments/assets/e7871d2f-3859-4166-a9fd-e5e6ca1f1c1d)
 
+
+
+![_MG_9352](https://github.com/user-attachments/assets/25c1b205-78c5-49ac-afd8-a3f6ff8422b0)
 
 
 
@@ -93,7 +95,7 @@ openWordClock uses a modified version of the [ESPWortuhr/Multilayout-ESP-Wordclo
 
 
 
-
+![_MG_9177](https://github.com/user-attachments/assets/e7871d2f-3859-4166-a9fd-e5e6ca1f1c1d)
 
 
 
